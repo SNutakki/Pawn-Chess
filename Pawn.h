@@ -1,0 +1,4 @@
+#ifndef UNTITLED_PAWN_H
+#define UNTITLED_PAWN_H
+
+#endif //UNTITLED_PAWN_H

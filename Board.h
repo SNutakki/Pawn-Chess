@@ -1,0 +1,4 @@
+#ifndef UNTITLED_BOARD_H
+#define UNTITLED_BOARD_H
+
+#endif //UNTITLED_BOARD_H
